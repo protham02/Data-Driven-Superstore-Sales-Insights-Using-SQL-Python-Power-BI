@@ -1,2 +1,5 @@
 # Data-Driven-Superstore-Sales-Insights-Using-SQL-Python-Power-BI
-This repository features the Superstore Sales Analysis project, demonstrating data cleaning and analysis using Python and SQL, along with interactive visualization in Power BI. Explore the code and reports to gain insights into sales performance, customer behavior, and product analysis.
+
+Problem Statement
+The problem addressed in this project is to analyze the sales data of a fictional superstore and gain valuable insights to drive business decisions. The challenges include cleaning and transforming the raw data, performing exploratory analysis, and visualizing the findings in an intuitive and informative manner.Problem Statement
+The problem addressed in this project is to analyze the sales data of a fictional superstore and gain valuable insights to drive business decisions. The challenges include cleaning and transforming the raw data, performing exploratory analysis, and visualizing the findings in an intuitive and informative manner.
