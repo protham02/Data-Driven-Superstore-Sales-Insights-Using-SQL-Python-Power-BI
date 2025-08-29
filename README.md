@@ -11,7 +11,7 @@ The solution involves leveraging Python for data cleaning and transformation tas
 
 The repository contains the following components:
 
-Python scripts for data cleaning and transformation of the Excel dataset.
-SQL dump file for importing the transformed data into a SQL database.
-SQL queries for performing exploratory analysis and extracting insights from the sales data.
-Power BI project file (.pbix) containing the interactive reports with three pages: sales performance, customer analysis, and product analysis.
+.Python scripts for data cleaning and transformation of the Excel dataset.
+.SQL dump file for importing the transformed data into a SQL database.
+.SQL queries for performing exploratory analysis and extracting insights from the sales data.
+.Power BI project file (.pbix) containing the interactive reports with three pages: sales performance, customer analysis, and product analysis.
