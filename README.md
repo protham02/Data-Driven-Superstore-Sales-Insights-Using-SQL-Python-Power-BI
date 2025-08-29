@@ -7,3 +7,11 @@ The problem addressed in this project is to analyze the sales data of a fictiona
 # Solution
 
 The solution involves leveraging Python for data cleaning and transformation tasks. The Excel dataset is cleaned and converted to a CSV file, which is then imported into a SQL database. SQL queries are utilized to extract relevant information and derive insights from the dataset. Power BI is used as the visualization tool to create interactive and visually appealing reports. This repository showcases the Superstore Sales Analysis project, which aims to analyze and visualize the sales data of a fictional superstore. The project utilizes a combination of Python, SQL, and Power BI to clean the data, perform exploratory analysis, and create interactive reports.
+
+
+The repository contains the following components:
+
+Python scripts for data cleaning and transformation of the Excel dataset.
+SQL dump file for importing the transformed data into a SQL database.
+SQL queries for performing exploratory analysis and extracting insights from the sales data.
+Power BI project file (.pbix) containing the interactive reports with three pages: sales performance, customer analysis, and product analysis.
