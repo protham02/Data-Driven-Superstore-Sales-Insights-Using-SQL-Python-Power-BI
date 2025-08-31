@@ -18,3 +18,6 @@ The repository contains the following components:
 3.SQL queries for performing exploratory analysis and extracting insights from the sales data.
 
 4..Power BI project file (.pbix) containing the interactive reports with three pages: sales performance, customer analysis, and product analysis.
+
+
+The project demonstrates proficiency in data cleaning, SQL querying, and data visualization using Power BI. The interactive reports provide valuable insights into sales performance, customer behavior, and product analysis, facilitating informed decision-making.
